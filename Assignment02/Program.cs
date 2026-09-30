@@ -1,4 +1,12 @@
-﻿namespace Assignment02
+﻿/*
+* Student ID : 1690703044
+* Name       : เตชินท์ กรอบรัมบ์
+* Section    : 129c
+* No.        : 26
+* Course     : GI113 Computer Programming (GI)
+*/
+
+namespace Assignment02
 {
     internal class Program
     {
